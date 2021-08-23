@@ -36,7 +36,7 @@ const tocString = "#### Table of Contents\n\n1. [Description](#description)\n  2
 
 const markdownContent = `# ${title}\n${tocString}\n---\n## Description\n${description}\n---\n## Installation Instructions\n${installationInstructions}\n---\n## Usage Info\n${usageInfo}\n---\n## Constribution Guide\n${contributionGuide}\n---\n## Test Instructions\n${testInstructions}\n---\n## License\n${getLicenseString()}\n---\n## Questions\nReach out to me for additional questions\n\ngithub: [${username}](https://github.com/${username})\nemail: [${email}](mailto:${email})\n`
 
-fs.writeFile('readme.md', markdownContent, {}, (err) => {
+fs.writeFile('output/readme.md', markdownContent, {}, (err) => {
   if (err) {
    console.log('oopsie')
   }
