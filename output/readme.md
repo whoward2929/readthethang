@@ -1,4 +1,4 @@
-# d
+# Project X
 #### Table of Contents
 
 1. [Description](#description)
@@ -11,25 +11,25 @@
 
 ---
 ## Description
-d
+A walkthrough creating a readme file in node.
 ---
 ## Installation Instructions
-d
+I used Prompt sync instead of Inquier package.
 ---
 ## Usage Info
-d
+This is used for readme files.
 ---
 ## Constribution Guide
-d
+Create a detailed readme through node.
 ---
 ## Test Instructions
-d
+NA
 ---
 ## License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ---
 ## Questions
 Reach out to me for additional questions
 
-github: [whoward2929](https://github.com/whoward2929)
-email: [whoward939@mail.con](mailto:whoward939@mail.con)
+github: [Whoward2929](https://github.com/Whoward2929)
+email: [whoward939@gmail.com](mailto:whoward939@gmail.com)
